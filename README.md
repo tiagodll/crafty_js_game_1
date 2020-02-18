@@ -6,4 +6,5 @@ Not so hard
 
 - `$ npm i`
 - `$ npm i -g beefy`
+- `$ npm i -g browserify`
 - `$ beefy game.js`
